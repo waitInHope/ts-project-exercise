@@ -77,7 +77,7 @@
 
     /* 类型检查 */
     "strict": true,                                      /* 启用所有严格类型检查选项。 */
-    // "noImplicitAny": true,                            /* 对具有隐式 “any” 类型的表达式和声明启用错误报告。 */
+    "noImplicitAny": true,                            /* 对具有隐式 “any” 类型的表达式和声明启用错误报告。 */
     // "strictNullChecks": true,                         /* 进行类型检查时，请考虑 “null” 和 “undefined”。 */
     "strictFunctionTypes": true,                      /* 分配函数时，请检查以确保参数和返回值与子类型兼容。 */
     // "strictBindCallApply": true,                      /* 检查 “bind”、“call” 和 “apply” 方法的参数是否与原始函数匹配。 */
